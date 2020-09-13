@@ -1,2 +1,2 @@
-# Student Manager
-Description
+# [Student Manager]
+- Description
